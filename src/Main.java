@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 //Java String Introduction
-public class Solution {
+public class JavaStringToken {
 
     public static void main(String[] args) {
 
